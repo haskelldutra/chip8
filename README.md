@@ -1,3 +1,17 @@
+# Building
+
+## Installing SDL2
+
+### Debian / Ubuntu
+
+```sh
+sudo apt install libsdl2-dev
+```
+
+### FreeBSD
+
+...
+
 
 # Hardware specifications
 
@@ -17,6 +31,7 @@ The stack is not part of main memory.
 
 
 <hr>
+
 ## The registers
 
 From V0 to VE.
