@@ -72,3 +72,10 @@ Sound timer and delay timer, these are 8bits and when above zero decrement at a 
 
 Keyboard has 16 keys from 0x00 to 0xF. You can represent this in your emulator as a array with 16 bytes.
 
+<hr>
+
+## References
+
+* http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
+
+
